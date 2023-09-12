@@ -1,0 +1,30 @@
+[#VERSION]
+UST Version1.2
+[#SETTING]
+Tempo=120.00
+Tracks=1
+ProjectName=New Project
+VoiceDir=%VOICE%jklex
+OutFile=
+CacheDir=utau_template.cache
+Tool1=wavtool.exe
+Tool2=resampler.exe
+Mode2=True
+[#0000]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0001]
+Length=480
+Lyric=jin0_f0
+NoteNum=60
+PreUtterance=
+Intensity=100
+Modulation=0
+Flags=B30
+PBS=-40
+PBW=49,129,50
+VBR=52.8,180,127.5,20,20,0,0,0
+PBY=-11.4,7.9,
+[#TRACKEND]

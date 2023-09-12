@@ -1,0 +1,40 @@
+[Fei]
+ma_x3 de0_x2 jin0_x2 ke0_x2 la0_x2
+jin_x3 ke_x3 la_x3 wo_x3 de_x3
+wo_f0 yao0_f0 jin0_f0 ke0_f0 la0_f0
+fei_f0 zhou_f0 nong_f0 ye_f0 bu_f0 fa_f0 da_f0
+bi_f0 xu_f0 yao1_f0 you_f0 jin1_f0 ke1_f0 la1_f0
+fei_f1 liao_f1 chan_f1 le_f1 jin_f1 ke_f1 la_f1
+bu0_f1 liu_f1 shi_f1 bu1_f1 zheng_f1 fa_f1 ling_f1 lang_f1 fei0_f1
+shi_f2 jie_f2 fei0_f2 liao0_f2 dou_f2 zhang_f2 jia_f2
+fei1_f2 liao1_f2 chan_f2 le_f2 jin_f2 ke_f2 la_f2
+yi_f2 dar0_f2 neng_f2 ding_f2 liang_f2 dar1_f2 sa_f2
+[Mei]
+ni_m0 men_m0 xiang_m0 gan_m0 shen_m0 me_m0
+bu_m1 neng_m1 da_m1 jia_m1
+jin_m1 ke_m1 la_m1 hao_m1 chu_m1 dou_m1 you_m1 sha_m1
+shei_m1 shuo_m1 dui_m1 le_m1 jiu_m1 gei_m1 ta_m1
+gui_m2 zi_m2 zhen_m2 bu_m2 sha_m2
+jin_m2 ke_m2 la_m2 gei0_m2 le_m2 ta0_m2
+dui_m2 mei_m2 guo_m2 nong_m2 ye_m2 wei_m2 hai_m2 da_m2
+jue_m2 bu_m2 neng_m2 gei1_m2 ta1_m2
+fei_m3 zhou_m3 nong_m3 ye_m3 bu_m3 fa_m3 da_m3
+wo_m3 men0_m3 dou_m3 yao_m3 zhi_m3 yuan_m3 ta_m3
+jin_m3 ke_m3 la_m3 ni_m3 men1_m3
+ri_m3 ben_m3 bie_m3 xiang_m3 la0_m3
+[Ri]
+wo_r0 yao0_r0 jin0_r0 ke0_r0 la0_r0
+ri_r0 ben_r0 zi_r0 yuan_r0 tai_r0 que_r0 fa_r0
+bi_r0 xu_r0 yao1_r0 you_r0 jin1_r0 ke1_r0 la1_r0
+fei_r1 liao_r1 chan_r1 liao0_r1 jin_r1 ke_r1 la_r1
+neng_r1 xi_r1 shou_r1 liang_r1 mi_r1
+xia_r1 di_r1 dan_r1 lin_r1 jia_r1
+yong_r2 liao_r2 jin_r2 ke_r2 la_r2
+xiao_r2 mai_r2 mu_r2 chan_r2 yi_r2 qian_r2 ba_r2
+ri_r2 ben_r2 de_r2 liang_r2 shi_r2 zai_r2 ye_r2
+bu_r2 xiang_r2 mei_r2 guo_r2 jin0_r2 kou_r2 la0_r2
+ha0_r2 ha1_r2 ha2_r2 ha3_r2 ha4_r2 ha5_r2
+jiao0_r3 hua0_r3 jiao1_r3 hua1_r3
+mei_r3 you_r3 jin0_r3 ke0_r3 la0_r3
+zen_r3 me_r3 zhong_r3 zhuang_r3 jia_r3
+jin1_r3 ke1_r3 la1_r3 jin2_r3 ke2_r3 la2_r3
